@@ -1,6 +1,6 @@
 # Web Scraping With Python
 
-# Top-250-Tv-Series
+# Top 250 Tv Series
 
 🖥️ The Things I used in this project
 - Tool - Jupyter notebook
